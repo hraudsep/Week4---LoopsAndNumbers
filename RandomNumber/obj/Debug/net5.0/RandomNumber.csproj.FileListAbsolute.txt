@@ -1,0 +1,15 @@
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.exe
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.deps.json
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.json
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.dev.json
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.dll
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\ref\RandomNumber.dll
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.pdb
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfo.cs
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.dll
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\ref\RandomNumber.dll
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.pdb
+C:\Users\helen.raudsepp\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.genruntimeconfig.cache
